@@ -1,7 +1,7 @@
 .container{
 /*  add width and height to the container  */
-  width:400px;
-  height: 300px;
+  width:230px;
+  height: 160px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -15,8 +15,8 @@
 /* Let's style our image */
 
 img{
-  width: 400px;
-  height: 300px;
+  width: 230px;
+  height: 160px;
 /*  add a transition to the container  */
   transition: all .5s ease-in-out;
 }
